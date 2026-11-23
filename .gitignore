@@ -1,0 +1,4 @@
+secrets/
+.env
+CLAUDE.md
+.claude/
